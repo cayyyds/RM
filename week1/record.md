@@ -26,3 +26,5 @@ auto_aim_interfaces：ROS2 消息定义包，给识别/跟踪节点通信用。
 rm_auto_aim：元包（meta package），本身基本不放业务代码，只做依赖聚合。
 
 ## armor_detector
+![alt text](image-3.png)
+![alt text](image-4.png)
